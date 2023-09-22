@@ -1,5 +1,5 @@
-# Portofolio Web Penjualan Novel
-
+# Portofolio Web Penjualan Novel (Indovel)
+ 
 Selamat datang di proyek Portofolio Web Penjualan Novel! Proyek ini bertujuan untuk membuat sebuah platform online yang memungkinkan penulis dan penerbit untuk menjual novel mereka secara digital, serta memfasilitasi kontribusi dari berbagai pihak untuk pengembangan dan perbaikan platform ini.
 
 ## Kontribusi
