@@ -16,7 +16,7 @@ Kami sangat menyambut kontribusi dari komunitas untuk mengembangkan proyek ini. 
 
 Terima kasih telah berkontribusi untuk membuat platform penjualan novel ini menjadi lebih baik!
 
-##Referensi
+## Referensi
 
 - Template Name: Tempo
 - Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
